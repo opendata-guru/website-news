@@ -1,0 +1,9 @@
+{
+    "name": "website-news",
+    "displayName": "website-news",
+    "logo": {
+        "icon": "web-pulse",
+        "color": 14
+    },
+    "theme": "simple"
+}

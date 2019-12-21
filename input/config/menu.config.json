@@ -1,1 +1,41 @@
-[]
+[
+    {
+        "items": [
+            {
+                "cssClass": "",
+                "id": 1576936502930,
+                "items": [],
+                "label": "Startseite",
+                "link": "https://opendata.guru",
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "external"
+            },
+            {
+                "cssClass": "",
+                "id": 1576936514650,
+                "items": [],
+                "label": "News",
+                "link": "empty",
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "frontpage"
+            },
+            {
+                "cssClass": "",
+                "id": 1576936532040,
+                "items": [],
+                "label": "Impressum",
+                "link": 1,
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "post"
+            }
+        ],
+        "name": "Footer Menu",
+        "position": "footerMenu"
+    }
+]

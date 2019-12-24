@@ -172,14 +172,14 @@
         "username": "###"
     },
     "displayName": "website-news",
-    "domain": "https://opendata.guru",
+    "domain": "https://opendata.guru/news",
     "language": "de",
     "logo": {
         "color": 14,
         "icon": "web-pulse"
     },
     "name": "website-news",
+    "syncDate": 1577228095684,
     "synced": "synced",
-    "theme": "technews",
-    "syncDate": 1576974370663
+    "theme": "opendataguru"
 }

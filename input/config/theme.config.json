@@ -134,7 +134,6 @@
         "tags": true,
         "tagsAmount": "5",
         "textColor": "#2C2E35",
-        "topLatestSync": true,
         "websiteTitle": "Open Data Guru",
         "websiteURI": "https://opendata.guru/"
     },

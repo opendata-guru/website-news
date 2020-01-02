@@ -3,7 +3,7 @@
         "authorsPostsPerPage": 10,
         "excerptLength": 45,
         "logo": "",
-        "postsPerPage": 10,
+        "postsPerPage": "10",
         "tagsPostsPerPage": 10
     },
     "customConfig": {
@@ -143,15 +143,15 @@
     "postConfig": {
         "displayAuthor": "0",
         "displayAuthorBio": "0",
-        "displayCategoryName": "0",
-        "displayCommentCount": 0,
-        "displayComments": 0,
+        "displayCategoryName": "1",
+        "displayCommentCount": "0",
+        "displayComments": "0",
         "displayDate": 1,
         "displayLastUpdatedDate": 1,
         "displayPostNavigation": 1,
         "displayRelatedPosts": 1,
         "displayShareButtons": 1,
-        "displayTags": 0
+        "displayTags": "0"
     },
     "defaultTemplates": {
         "post": ""

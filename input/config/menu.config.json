@@ -28,11 +28,11 @@
                 "id": 1576936532040,
                 "items": [],
                 "label": "Impressum",
-                "link": 1,
+                "link": "https://opendata.guru/impressum/",
                 "rel": "",
                 "target": "_self",
                 "title": "",
-                "type": "post"
+                "type": "external"
             }
         ],
         "name": "Footer Menu",
@@ -67,11 +67,11 @@
                 "id": 1577576053088,
                 "items": [],
                 "label": "Impressum",
-                "link": 1,
+                "link": "https://opendata.guru/impressum/",
                 "rel": "",
                 "target": "_self",
                 "title": "",
-                "type": "post"
+                "type": "external"
             }
         ],
         "name": "Top Menu",

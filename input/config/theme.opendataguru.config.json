@@ -63,7 +63,7 @@
         "galleryShare": true,
         "galleryZoom": true,
         "headingColor": "#2C2E35",
-        "heroArea": true,
+        "heroArea": false,
         "layoutAuthor": "cat--layout-2col-1-4",
         "layoutFrontpage": "cat--layout-2col-1-4",
         "layoutTags": "cat--layout-2col-1-4",
